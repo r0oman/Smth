@@ -6,7 +6,7 @@ body {
 .main {
 	width: 900px;
 	height: 900px;
-	background: url('http://jyloo.xyz/assets/img/background.png');
+	background: url('Images/background.png');
 	background-size: cover;
 	margin: 0 auto;
 	position: relative;
@@ -19,7 +19,7 @@ body {
 	position: absolute;
 	left: 20%;
 	top: 15%;
-	background: url('http://jyloo.xyz/assets/img/balloon.png') no-repeat;
+	background: url('Images/balloon.png') no-repeat;
 	background-size: cover;
 	animation-name: floating;
 	animation-duration: 4s;
@@ -34,7 +34,7 @@ body {
 	position: absolute;
 	left: 50%;
 	top: 30%;
-	background: url('http://jyloo.xyz/assets/img/cloud-right.png') no-repeat;
+	background: url('Images/cloud-right.png') no-repeat;
 	background-size: cover;
 	animation-name: floating;
 	animation-duration: 6s;
@@ -49,7 +49,7 @@ body {
 	position: absolute;
 	left: 10%;
 	top: 20%;
-	background: url('http://jyloo.xyz/assets/img/cloud-right.png') no-repeat;
+	background: url('Images/cloud-right.png') no-repeat;
 	background-size: cover;
 	animation-name: floating;
 	animation-duration: 7s;
@@ -64,7 +64,7 @@ body {
 	position: absolute;
 	left: 20%;
 	top: 53%;
-	background: url('http://jyloo.xyz/assets/img/cloud-right.png') no-repeat;
+	background: url('Images/cloud-right.png') no-repeat;
 	background-size: cover;
 	animation-name: floating;
 	animation-duration: 5s;
@@ -79,7 +79,7 @@ body {
 	position: absolute;
 	left: 55%;
 	top: 53%;
-	background: url('http://jyloo.xyz/assets/img/chat.png') no-repeat;
+	background: url('Images/chat.png') no-repeat;
 	background-size: cover;
 	animation: floating 4s infinite ease-in-out, fade 2s 1 ease-in-out;
 }
